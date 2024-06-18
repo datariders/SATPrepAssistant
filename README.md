@@ -1,2 +1,2 @@
 # SAT_prep
-SAT preparation GenAI assistant - MongoDB Vector, MongoDB Atlas search, AWS Bedrock, Unstructured.io, Anthropic Claude  
+SAT preparation GenAI assistant - MongoDB Atlas, MongoDB Vector search, AWS Bedrock, AWS S3, Unstructured.io, Anthropic Claude, Hugging Face
