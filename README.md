@@ -16,7 +16,9 @@ SAT preparation GenAI assistant - MongoDB Atlas, MongoDB Vector search, AWS Bedr
 
 # Architecture
 
-![SATEnglishMockTest](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Prep_English_mock_test_1.png "SAT_Prep_English_mock_test_1")
+![SATPrepArchitecture](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Prep_Assistant_architecture.png "SATPrepArchitecture")
+
+![SATPrepDiagram](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Prep_Assistant_diagram.png "SATPrepDiagram")
 
 # Output
 
