@@ -1,6 +1,9 @@
 # SATPrepAssistant
 SAT preparation GenAI assistant - MongoDB Atlas, MongoDB Vector search, AWS Bedrock, AWS S3, Unstructured.io, Anthropic Claude, Hugging Face
 
+![SATPrepAssistant](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_Architecture.png?raw=true "NextMOVE Architecture")
+
+
 # Problem statement
 
 # Solution
