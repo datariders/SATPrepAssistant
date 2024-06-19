@@ -11,9 +11,9 @@ There are two sections in the SAT exam:
 1. Math
 2. English (Evidence-Based Reading and Writing)
 
-Exams involving multiple choice questions require lots of practice.  SAT preparation boot camps and mock exams would immensely benefit students.  Not all high school students of the nation may be able to afford SAT preparation boot camps and mock exams.
+Exams involving multiple choice questions require lots of practice.  SAT preparation boot camps and mock exams would immensely benefit students.
 
-> The quick brown fox jumps over the lazy dog.
+> Not all high school students of the nation may be able to afford SAT preparation boot camps and mock exams.
 
 <br>
 
