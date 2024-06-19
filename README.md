@@ -13,25 +13,13 @@ There are two sections in the SAT exam:
 
 Exams involving multiple choice questions require lots of practice.  SAT preparation boot camps and mock exams would immensely benefit students.
 
->>> SAT preparation boot camps and mock exams may not be affordable and easily accessible for all high school students of the nation.
 
 <br>
 
-> The quick brown fox jumps over the lazy dog.
->
-> The quick brown fox jumps over the lazy dog.
->
-> The quick brown fox jumps over the lazy dog.
+>>> **SAT preparation boot camps and mock exams may not be affordable and easily accessible for all high school students of the nation.**
 
 <br>
 
-> The quick brown fox jumps over the lazy dog.
->> The quick brown fox jumps over the lazy dog.
->>> The quick brown fox jumps over the lazy dog.
-
-<br>
-
-> **The quick brown fox** *jumps over the lazy dog.*
 
 # Problem statement
 - A lot of high school students cannot afford SAT Prep boot camps and hence struggle to prepare effectively.
