@@ -21,9 +21,8 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 <br>
 
 
-# Problem statement
-- A lot of high school students cannot afford SAT Prep boot camps and hence struggle to prepare effectively.
-- Need a tool to generate mock SAT exams in English and Math 
+# Objective
+- Create a tool which would generate mock SAT exams for English and Math to assist high school students  
 
 
 # Solution
