@@ -5,7 +5,8 @@ SAT preparation GenAI assistant - MongoDB Atlas, MongoDB Vector search, AWS Bedr
 
 
 # Background
-The Scholastic Assessment Test
+The [Scholastic Assessment Test](https://en.wikipedia.org/wiki/SAT)is an entrance exam used by most colleges and universities in the USA to make admissions decisions. The SAT is a multiple-choice, computer-based test created and administered by the College Board. The [purpose](https://www.princetonreview.com/college/sat-information) of the SAT is to measure a high school student's readiness for college, and provide colleges with one common data point that can be used to compare all applicants.
+
 
 Math
 Evidence-Based Reading and Writing
@@ -50,6 +51,8 @@ Evidence-Based Reading and Writing
 
 
 # References
+https://www.princetonreview.com/college/sat-information
+
 https://www.mongodb.com/developer/products/atlas/rag-workflow-with-atlas-amazon-bedrock/
 
 https://unstructured.io/blog/effortless-document-extraction-a-guide-to-using-unstructured-api-and-data-connectors
