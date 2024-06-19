@@ -41,3 +41,10 @@ SAT preparation GenAI assistant - MongoDB Atlas, MongoDB Vector search, AWS Bedr
 - [Vigneswari Sambandam](https://www.linkedin.com/in/viggy-sambandam/)
 - Sadhana Arivoli
 - Aradhana Arivoli
+
+
+# References
+https://www.mongodb.com/developer/products/atlas/rag-workflow-with-atlas-amazon-bedrock/
+
+https://unstructured.io/blog/effortless-document-extraction-a-guide-to-using-unstructured-api-and-data-connectors
+
