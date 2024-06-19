@@ -11,6 +11,28 @@ There are two sections in the SAT exam:
 1. Math
 2. English (Evidence-Based Reading and Writing)
 
+Exams involving multiple choice questions require lots of practice.  SAT preparation boot camps and mock exams would immensely benefit students.  Not all high school students of the nation may be able to afford SAT preparation boot camps and mock exams.
+
+> The quick brown fox jumps over the lazy dog.
+
+<br>
+
+> The quick brown fox jumps over the lazy dog.
+>
+> The quick brown fox jumps over the lazy dog.
+>
+> The quick brown fox jumps over the lazy dog.
+
+<br>
+
+> The quick brown fox jumps over the lazy dog.
+>> The quick brown fox jumps over the lazy dog.
+>>> The quick brown fox jumps over the lazy dog.
+
+<br>
+
+> **The quick brown fox** *jumps over the lazy dog.*
+
 # Problem statement
 - A lot of high school students cannot afford SAT Prep boot camps and hence struggle to prepare effectively.
 - Need a tool to generate mock SAT exams in English and Math 
