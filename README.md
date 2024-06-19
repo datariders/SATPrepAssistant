@@ -44,10 +44,10 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 
 | Math sample test | Math sample test prompt | English sample test | English sample test prompt
 | --- | --- | --- | ---
-| 100 | 200 | 300 | 400
+| 100 | 200 | ![SAT_English_sample_test_1.pdf](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_English_sample_test_1.pdf "SAT_English_sample_test_1") | 400
 
 
-![SAT_English_sample_test_1.pdf](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_English_sample_test_1.pdf "SAT_English_sample_test_1") 
+ 
 ![SAT_English_sample_test_1_prompts.txt](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_English_sample_test_1_prompts.txt)
 
 
