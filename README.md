@@ -4,6 +4,12 @@ SAT preparation GenAI assistant - MongoDB Atlas, MongoDB Vector search, AWS Bedr
 ![SATPrepAssistant](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Prep_Assistant_header.png "SATPrepAssistant")
 
 
+# Background
+The Scholastic Assessment Test
+
+Math
+Evidence-Based Reading and Writing
+
 # Problem statement
 - A lot of high school students cannot afford SAT Prep boot camps and hence struggle to prepare effectively.
 - Need a tool to generate mock SAT exams in English and Math 
