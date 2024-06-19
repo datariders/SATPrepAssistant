@@ -22,7 +22,7 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 
 
 # Objective
-- Create a tool which would generate mock SAT exams for English and Math to assist high school students  
+- Create a tool which would generate mock SAT exams for Math and English to assist high school students  
 
 
 # Solution
