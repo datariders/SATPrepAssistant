@@ -16,7 +16,7 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 
 <br>
 
->>> **SAT preparation boot camps and mock exams may not be affordable and easily accessible for all high school students of the nation.**
+>>> _**SAT preparation boot camps and mock exams may not be affordable and easily accessible for all high school students of the nation.**_
 
 <br>
 
