@@ -30,6 +30,17 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 
 # Description
 
+Math question papers may have a variety of notations and expressions for math equations.  So, it may not be straight forward for an LLM to accurately parse documents with Math equations.  Also, the size of the input document might also become a factor.
+
+Unstructured allows organizations to ingest diverse file types from their preferred data storage platforms and quickly and easily convert that messy, natural language data into clean, structured data.
+
+MongoDB Atlas database serves as the vector storage.  MongoDB Atlas Vector search takes care of similarity search.
+
+Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon through a single API, along with a broad set of capabilities you need to build generative AI applications with security, privacy, and responsible AI.
+
+The SAT Prep assistant uses Unstructured.io, MongoDB Atlas and MongoDB Atlas Vector Search, AWS Bedrock, Anthropic 3.x and Hugging Face to solve the problem.
+
+
 # Tech stack
 
 ![SATPrepTechStack](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Prep_TechStack.png "SAT_Prep_TechStack")
@@ -81,6 +92,10 @@ https://en.wikipedia.org/wiki/SAT
 https://www.princetonreview.com/college/sat-information
 
 https://www.mongodb.com/developer/products/atlas/rag-workflow-with-atlas-amazon-bedrock/
+
+https://unstructured.io/
+
+https://aws.amazon.com/bedrock/
 
 https://unstructured.io/blog/effortless-document-extraction-a-guide-to-using-unstructured-api-and-data-connectors
 
