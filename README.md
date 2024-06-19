@@ -26,7 +26,7 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 
 
 # Solution
-- A SAT Preparation Assistant tool using GenAI to generate mock SAT exams in English and Math.
+- Content generation based on existing documents is a perfect use case for GenAI.  A SAT Preparation Assistant tool can be created which can help in generating mock SAT exams for Math and English.
 
 # Description
 
