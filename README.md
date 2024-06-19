@@ -32,7 +32,7 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 
 Math question papers may have a variety of notations and expressions for math equations.  So, it may not be straight forward for an LLM to accurately parse documents with Math equations.  Also, the size of the input document might also become a factor.
 
-- [Unstructured.io](https://unstructured.io/) Unstructured allows organizations to ingest diverse file types from their preferred data storage platforms and quickly and easily convert that messy, natural language data into clean, structured data.
+- [Unstructured.io](https://unstructured.io/) allows organizations to ingest diverse file types from their preferred data storage platforms and quickly and easily convert that messy, natural language data into clean, structured data.
 
 - MongoDB Atlas database serves as the vector storage.  MongoDB Atlas Vector search takes care of similarity search.
 
