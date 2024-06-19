@@ -40,6 +40,8 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 
 ![SATPrepDiagram](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Prep_Assistant_diagram.png "SATPrepDiagram")
 
+# Sample SAT prep material for Math and English and corresponding prompts
+
 # Output
 
 ## SAT Math mock test
