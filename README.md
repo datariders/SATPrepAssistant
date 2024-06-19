@@ -44,7 +44,7 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 
 - [SAT_Math_sample_test_1](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Math_sample_test_1.pdf)
 
-- [SAT_English_sample_test_1_prompts](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_English_sample_test_1_prompts.txt)
+- [SAT_Math_sample_test_1_prompts](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Math_sample_test_1_prompts.txt)
 
 
 # Sample SAT prep tests and prompts for English
