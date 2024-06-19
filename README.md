@@ -41,21 +41,17 @@ Exams involving multiple choice questions require lots of practice.  SAT prepara
 ![SATPrepDiagram](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Prep_Assistant_diagram.png "SATPrepDiagram")
 
 # Sample SAT prep tests and prompts for Math
+
+- [SAT_Math_sample_test_1](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_Math_sample_test_1.pdf)
+
+- [SAT_English_sample_test_1_prompts](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_English_sample_test_1_prompts.txt)
+
+
 # Sample SAT prep tests and prompts for English
 
 - [SAT_English_sample_test_1](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_English_sample_test_1.pdf)
 
 - [SAT_English_sample_test_1_prompts](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_English_sample_test_1_prompts.txt)
-
-
-| Math sample test | Math sample test prompt | English sample test | English sample test prompt
-| --- | --- | --- | ---
-| 100 | 200 | ![SAT_English_sample_test_1.pdf](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_English_sample_test_1.pdf "SAT_English_sample_test_1") | 400
-
-
- 
-![SAT_English_sample_test_1_prompts.txt](https://github.com/datariders/SATPrepAssistant/blob/main/docs/SAT_English_sample_test_1_prompts.txt)
-
 
 
 
