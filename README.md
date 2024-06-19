@@ -7,9 +7,9 @@ SAT preparation GenAI assistant - MongoDB Atlas, MongoDB Vector search, AWS Bedr
 # Background
 The [Scholastic Assessment Test](https://en.wikipedia.org/wiki/SAT)is an entrance exam used by most colleges and universities in the USA to make admissions decisions. The SAT is a multiple-choice, computer-based test created and administered by the College Board. The [purpose](https://www.princetonreview.com/college/sat-information) of the SAT is to measure a high school student's readiness for college, and provide colleges with one common data point that can be used to compare all applicants.
 
-
-Math
-Evidence-Based Reading and Writing
+There are two sections in the SAT exam:
+1. Math
+2. English (Evidence-Based Reading and Writing)
 
 # Problem statement
 - A lot of high school students cannot afford SAT Prep boot camps and hence struggle to prepare effectively.
