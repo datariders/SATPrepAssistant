@@ -36,7 +36,7 @@ Unstructured allows organizations to ingest diverse file types from their prefer
 
 MongoDB Atlas database serves as the vector storage.  MongoDB Atlas Vector search takes care of similarity search.
 
-Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon through a single API, along with a broad set of capabilities you need to build generative AI applications with security, privacy, and responsible AI.
+[Amazon Bedrock](https://aws.amazon.com/bedrock/) is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon through a single API, along with a broad set of capabilities you need to build generative AI applications with security, privacy, and responsible AI.
 
 The SAT Prep assistant uses Unstructured.io, MongoDB Atlas and MongoDB Atlas Vector Search, AWS Bedrock, Anthropic 3.x and Hugging Face to solve the problem.
 
