@@ -66,6 +66,9 @@ The SAT Prep assistant uses Unstructured.io, MongoDB Atlas and MongoDB Atlas Vec
 
 
 
+# Video
+https://www.youtube.com/watch?v=DTg6idDulxY
+
 # Output
 
 ## SAT Math mock test
